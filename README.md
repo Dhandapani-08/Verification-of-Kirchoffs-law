@@ -40,25 +40,20 @@
   
  *6.Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.*
 
-
-
-
-
-
-
-
-
-
-
-
-
 TABULATION :
+
+	<img width="940" height="1343" alt="image" src="https://github.com/user-attachments/assets/74798391-8eeb-480a-9146-09109209c14e" />
+
  
 
 CALCULATION:
-  
+
+  <img width="786" height="1386" alt="image" src="https://github.com/user-attachments/assets/73b10206-bf0b-4182-ac20-45491aafca61" />
+
 MARK SPLIT UP:
- 
+
+ <img width="940" height="805" alt="image" src="https://github.com/user-attachments/assets/0556ccc4-1750-4c8b-8e73-6383f3cfcadb" />
+
 
 **RESULT:**
 
